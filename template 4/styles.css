@@ -1,0 +1,82 @@
+
+.outer-div{
+    height: auto;
+    width: 698px;
+    margin: 32px;
+    padding: 32px;
+    border: 1px solid black;
+}
+
+.nav{
+    height: 28px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.content{
+    padding: 32px;
+} 
+
+.title-font{
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-size: 30px;
+    line-height: 45.33px;
+    text-align: center;
+    margin: 16px 0px;
+}
+
+.content-font{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #333333;
+    margin: 0;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.button{
+    border-radius: 4px;
+    padding: 10px 40px 10px 40px;
+    gap: 10px;
+    background-color: #302575;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    outline: none;
+    cursor: pointer;
+}
+
+.copyright-container{
+    height: 16px;
+    margin-top: 16px;
+}
+
+.copyright-font{
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 200;
+}
+
+.divider{
+    margin-top: 80px;
+    width: 420px;
+    border: 1px solid #00000033;
+}
+
+.message-container{
+    padding-bottom: 16px;
+    margin-top: 32px;
+}
